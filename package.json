@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node src/app.mjs",
     "build": "npm run build"
   },
   "keywords": [],
